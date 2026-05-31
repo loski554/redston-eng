@@ -1,4 +1,4 @@
-# 🔴 Redstone Engineering — Projet Réseau Cisco
+# Redstone Engineering — Projet Réseau Cisco
 ### Simulation d'une infrastructure réseau d'entreprise multi-sites
 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-blue?logo=cisco&logoColor=white)
@@ -21,8 +21,8 @@ L'infrastructure couvre **deux sites interconnectés** :
 ---
 
 ## 🖥️ Topologie
+![schema-cisco](./schema.png)
 
----
 
 ## ⚙️ Compétences mises en place
 
@@ -55,6 +55,7 @@ L'infrastructure couvre **deux sites interconnectés** :
 📦 redstone-engineering-network
  ┣ 📄 README.md              ← Vous êtes ici
  ┣ 📄 documentation.md       ← Documentation technique complète
+ ┣ 🖼️ schema.png             ← Schema PNG du réseau
  ┗ 📦 main.pkt               ← Fichier Packet Tracer
 ```
 
@@ -62,11 +63,10 @@ L'infrastructure couvre **deux sites interconnectés** :
 
 ## 📚 Documentation complète
 
-La documentation technique détaillée est disponible dans `documentation.md`.
+La documentation technique détaillée est disponible dans [documentation.md](./documentation.md).
 
 ---
 
 ## 👤 Auteur
 
 **Lucas Goulain-Roubanoff**
-BTS SIO — option SISR
