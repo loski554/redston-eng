@@ -15,8 +15,8 @@
 Ce projet simule l'infrastructure réseau complète de **Redstone Engineering**, une startup fictive spécialisée dans l'hydrogène grand public, réalisé dans le cadre de ma formation **BTS SIO option SISR**.
 
 L'infrastructure couvre **deux sites interconnectés** :
-- 🏢 **Site A — Siège social (Paris)** : pôles Direction, RH, IT et Serveurs
-- 🏬 **Site B — Agence (Lyon)** : pôles RH et Recherche
+- **Site A — Siège social (Paris)** : pôles Direction, RH, IT et Serveurs
+- **Site B — Agence (Lyon)** : pôles RH et Recherche
 
 ---
 
