@@ -9,8 +9,8 @@
 Dans le cadre de ma formation BTS SIO option SISR, j'ai conçu et simulé l'infrastructure réseau complète d'une entreprise fictive appelée **Redstone Engineering**, une startup spécialisée dans l'hydrogène grand public. Ce projet m'a permis de mettre en pratique les compétences réseau attendues en entreprise : segmentation par VLANs, routage dynamique, sécurisation des accès et automatisation de l'adressage IP.
 
 L'infrastructure couvre deux sites interconnectés :
-- 🏢 **Site A — Siège social (Paris)** : pôles Direction, RH, IT et Serveurs
-- 🏬 **Site B — Agence (Lyon)** : pôles RH et Recherche
+- **Site A — Siège social (Paris)** : pôles Direction, RH, IT et Serveurs
+- **Site B — Agence (Lyon)** : pôles RH et Recherche
 
 Les objectifs techniques que je me suis fixés sont :
 - Segmenter le réseau par VLANs pour isoler les pôles
